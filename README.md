@@ -35,6 +35,9 @@ This is a simple console-based e-commerce application written in Java. The appli
 1. Follow the on-screen prompts to navigate through the application.
 2. Enter the appropriate numbers to list products, add products to the cart, view the cart, and checkout.
 
+## Future Enhancements
+Planning to add a web interface using Spring Boot and incorporate machine learning features for personalized recommendations.
+
 ## Contributing
 Feel free to fork this repository, make improvements, and create pull requests.
 
